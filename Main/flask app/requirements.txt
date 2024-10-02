@@ -1,0 +1,11 @@
+streamlit
+requests
+Flask
+serpapi
+google-search-results
+beautifulsoup4
+scikit-learn
+sentence-transformers
+numpy
+python-dotenv
+google-generativeai
